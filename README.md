@@ -1,2 +1,4 @@
-# FirstRepoDio
-Repositório de teste.
+# FirstRepoDio :chicken:
+Objetivos
+- Criar um app,
+- Ficar milionário com esse app.
